@@ -1,0 +1,33 @@
+.back{
+    padding-top: 30px;
+    background-color:  #060036;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.buttons{
+    margin-bottom: 10px;
+    border: 3px solid #023d97;
+    cursor: pointer;
+    font-size: 25px;
+    color: #ffd428;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+.title{
+    padding: 5px;
+    font-size: 40px;
+    color: #ffd428;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+.back_films{
+    padding-top: 30px;
+    background-color:  #060036;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input_text{
+    width: 400px;
+}
